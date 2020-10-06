@@ -1,0 +1,4 @@
+{
+	"java.jdt.ls.vmargs": "-javaagent:/usr/share/java/lombok/lombok.jar",
+	"java.trace.server": "verbose"
+}
